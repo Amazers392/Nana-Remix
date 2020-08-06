@@ -6,6 +6,12 @@
 
 Currently work fine perfectly, but some features may give you error. Please report a bug to me if you facing any issues.
 
+## Installing
+
+#### The Easy Way
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Installation Guide
 
 See our documentation to get [Installation Guide](https://aman-a.gitbook.io/nana-remix).
